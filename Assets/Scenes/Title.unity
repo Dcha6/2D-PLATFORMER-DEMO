@@ -1266,8 +1266,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 13.9, y: 196.7793}
-  m_SizeDelta: {x: 297.4, y: 83.1902}
+  m_AnchoredPosition: {x: -0.000030518, y: 255.9}
+  m_SizeDelta: {x: 580.5029, y: 84.1664}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1603089486
 MonoBehaviour:
@@ -1289,7 +1289,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'I AM BOSHY CLONE DEMO
+  m_text: 'I WANNA BE THE BOSHY CLONE DEMO
 
 '
   m_isRightToLeft: 0
